@@ -2,7 +2,7 @@ const spotifyArtist = "https://open.spotify.com/artist/7rsykE1BR5XrH762uLdwWT";
 const youtubeFilm = "https://www.youtube.com/watch?v=WcT_fy3CM0g";
 export default function HomePage() {
  return <main>
-  <header><a href="#home" className="brand"><img className="brandImage" src="/whitespur-brand.svg" alt="Whitespur" width="285" height="88" /></a><nav className="headerLinks"><a href="https://x.com/suraj_sharma" target="_blank" rel="noopener noreferrer" className="toplink" aria-label="Orion Spur on X">X ↗</a><a href="mailto:s@spurs.in" className="toplink">Contact ↗</a></nav></header>
+  <header><a href="#home" className="brand"><img className="brandCrest" src="/whitespur-crest.avif" alt="" aria-hidden="true" width="60" height="60" /><span className="brandName">WHITESPUR</span></a><nav className="headerLinks"><a href="https://x.com/suraj_sharma" target="_blank" rel="noopener noreferrer" className="toplink" aria-label="Orion Spur on X">X ↗</a><a href="mailto:s@spurs.in" className="toplink">Contact ↗</a></nav></header>
   <section className="hero" id="home">
    <div className="copy">
     <p className="eyebrow">AN INDEPENDENT MUSIC PROJECT</p>
