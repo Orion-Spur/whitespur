@@ -1,11 +1,16 @@
-# Whitespur
+# Whitespur official one-pager
 
-Official website for **Whitespur**, an independent music project by Suraj Sharma (Orion Spur).
+A simple Next.js artist-verification page for Whitespur, created by Suraj Sharma (Orion Spur).
 
-Debut single: *The Part That Doesn't Set* · F&O Forever
+## Deploy
 
-Website: https://orion-spur.com
-Spotify: https://open.spotify.com/artist/7rsykE1BR5XrH762uLdwWT
-Film: https://www.youtube.com/watch?v=WcT_fy3CM0g
+Upload the folder to a Vercel project configured for Next.js, or push it to a GitHub repository and import the repository into Vercel.
 
-Built with Next.js and deployed on Vercel.
+## Links
+
+- Spotify: https://open.spotify.com/artist/7rsykE1BR5XrH762uLdwWT
+- YouTube film: https://www.youtube.com/watch?v=WcT_fy3CM0g
+
+## Artist verification
+
+The page includes your name and contact email for Spotify's manual claim form. Before publishing, please confirm that s@spurs.in is the email you want displayed publicly.
