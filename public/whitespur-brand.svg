@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Whitespur">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1"><stop stop-color="#fce6b0"/><stop offset=".28" stop-color="#dcb372"/><stop offset=".52" stop-color="#9d652d"/><stop offset=".76" stop-color="#f7ce85"/><stop offset="1" stop-color="#a76c36"/></linearGradient></defs>
+<g fill="none" stroke="url(#g)" stroke-width="4"><circle cx="149" cy="150" r="119"/><path d="M59 137h180M59 170h180M85 115 Q149 22 211 115 M89 189 Q149 267 209 189"/></g>
+<g fill="url(#g)" font-family="Georgia,serif" text-anchor="middle"><text x="149" y="157" font-size="124" font-weight="700" letter-spacing="-10">W</text><text x="149" y="169" font-size="25" letter-spacing="1.5" stroke="#050505" stroke-width="2" paint-order="stroke">WHITESPUR</text><text x="638" y="189" font-size="94" letter-spacing="22">WHITESPUR</text></g><g stroke="url(#g)" fill="none" stroke-width="2"><path d="M281 225h710"/></g>
+</svg>
